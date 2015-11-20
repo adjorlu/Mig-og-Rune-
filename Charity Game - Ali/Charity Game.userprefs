@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CitizenManagementGUI.cs">
+    <Files>
+      <File FileName="Assets/Citizen.cs" Line="56" Column="16" />
+      <File FileName="Assets/CitizenCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/NameProvider.cs" Line="1" Column="1" />
+      <File FileName="Assets/CitizenMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Clock.cs" Line="1" Column="1" />
+      <File FileName="Assets/BuildingBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/FoodStorage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Jobs/JobsMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Jobs/Mining.cs" Line="1" Column="1" />
+      <File FileName="Assets/CitizenManagementGUI.cs" Line="43" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
