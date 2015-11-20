@@ -16,7 +16,7 @@ public class Clock : MonoBehaviour {
 
 	private void UpdateTime(){
 		_hour++;
-		_hour = _hour%10;
+		_hour = _hour%12;
 		if(_hour==0){
 			OnNewDay();
 		}
